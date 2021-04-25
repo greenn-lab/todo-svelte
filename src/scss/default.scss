@@ -1,0 +1,19 @@
+$--color-black: #0e111b;
+$--color-black-90: rgba($--color-black, .9);
+$--color-black-50: rgba($--color-black, .5);
+
+$--color-white: #000;
+$--color-white-60: rgba($--color-white, .6);
+$--color-white-50: rgba($--color-white, .5);
+$--color-white-40: rgba($--color-white, .4);
+$--color-white-30: rgba($--color-white, .3);
+
+$--color-primary: #fdc000;
+$--color-area: #1c212e;
+
+.container {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 40px 0;
+  position: relative;
+}
